@@ -1,2 +1,2 @@
 # RobustPED
-Investigation of robust proce-elasticity demand model
+Investigation of robust price-elasticity demand model
